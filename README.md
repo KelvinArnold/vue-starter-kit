@@ -1,4 +1,4 @@
-# vue-kit-started
+# vue-starter kit
 
 ## Project setup
 ```
